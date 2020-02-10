@@ -1,11 +1,12 @@
 # HP-840G3-FOR-OC
-## 细节
+## 配置
 
 - CPU : Intel® Core™ i7-6700U Processor
 - 显卡 : Intel HD 520
 - 声卡 : Conexant CX20724
 - 内存 : DDR4 8G 2133MHZ
 - M.2 NVME SSD : THOSHIBA256GB
+- 显示器 :2K LED
 
 
 
@@ -42,4 +43,6 @@
 - HFSPlus.efi
 
 ## EFI文件
-- 内附几个实用efi工具，ScreenshotDxe.efi为截屏工具，BOOT\startup.nsh为获取windows启动路径的shell脚步
+- 内附几个实用efi工具，ScreenshotDxe.efi为截屏工具，BOOT\startup.nsh为获取windows启动路径的UEFI shell脚本
+
+
